@@ -56,6 +56,7 @@ RegisterNumber:25015729
 <img width="1688" height="162" alt="Screenshot 2025-11-20 003916" src="https://github.com/user-attachments/assets/81f85aee-df7d-47a0-9aed-395b3eda7cb4" />
 
 **RESULTS**
+
 Thus,so implemented JK flipflop using verilog and validated their functionality using their functional tables
 
 
